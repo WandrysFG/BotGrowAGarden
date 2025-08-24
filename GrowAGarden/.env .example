@@ -1,3 +1,2 @@
 # .env.example
 DISCORD_TOKEN=your_discord_token_here
-CHANNEL_ID=123456789012345678
